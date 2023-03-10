@@ -17,7 +17,10 @@
   </p>
 </div>
 
-## My Skill Set  
+<div align="center" style="width: 150%">
+  <h2 align="center">🖥️ My Skill Set 🖥️</h2>
+</div>
+
 <table><tr><td valign="top" width="33%">
 
 <div align="center" style="width: 150%">
@@ -78,7 +81,6 @@
 
 </td></tr></table>  
 
-<br/> 
 
 <div align="center" style="width: 150%">
   <h3 align="center">😊 Connect with me 😊</h3>
