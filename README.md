@@ -78,6 +78,9 @@
 
 </td></tr></table>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnamughni24&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide=html)](https://github.com/krisnamughni24)
+
+
 <br/> 
 
 <div align="center" style="width: 150%">
