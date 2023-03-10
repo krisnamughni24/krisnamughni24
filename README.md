@@ -1,5 +1,5 @@
 <div align="center" style="width: 150%">
-  <img src="https://github.com/krisnamughni24/krisnamughni24/blob/main/makizenin.gif" width="9000"/>
+  <img src="https://github.com/krisnamughni24/krisnamughni24/blob/main/makizenin1.gif" width="1000"/>
 </div>
 
 
