@@ -2,7 +2,11 @@
   <img src="https://github.com/krisnamughni24/krisnamughni24/blob/main/makizenin.gif" width="9000"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Krisna Mughni</h1>
+
+<div align="center" style="width: 50%">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Krisna+Mughni;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B%E3%80%81%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%8A+%E3%83%A0%E3%82%B0%E3%83%8B%E3%81%A7%E3%81%99;Guten+Tag+%F0%9F%91%8B%2C+ich+bin+Krisna+Mughni;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5+%F0%9F%91%8B%2C+%D1%8F+%D0%9A%D1%80%D0%B8%D1%81%D0%BD%D0%B0+%D0%9C%D1%83%D0%B3%D0%BD%D0%B8;Bonjour+%F0%9F%91%8B%2C+Je+suis+Krisna+Mughni" width="750"/>
+</div>
 
 <div align="center">
   <p align="center">
@@ -81,7 +85,20 @@
 
 </td></tr></table>  
 
-
+<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=krisnamughni24&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=krisnamughni24&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=krisnamughni24&show_icons=true" />
+</picture>
+</div>
+  
 <div align="center" style="width: 150%">
   <h3 align="center">😊 Connect with me 😊</h3>
 </div>
