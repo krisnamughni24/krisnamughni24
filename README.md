@@ -10,6 +10,14 @@
 
 <p>Hi there! I'm Krisna Mughni, dedicated and motivated Back End Engineer with a passion for developing innovative and efficient solutions to complex problems. My technical skills and experience in coding and data management have allowed me to contribute to several successful projects. Additionally, I am also interested in the intersection of technology and creativity and have a keen interest in audio/music production, Game Dev, 3D modeling, and the use of DL/AI in these areas. I am always open to new opportunities and would welcome the chance to connect with like-minded professionals in my network. Let's connect!</p>
 
+ <div align="center" style="width: 150%">
+  <h3 align="center">📊 GitHub Stats 📊</h3>
+</div>
+
+![](https://github-readme-stats.vercel.app/api?username=krisnamughni24&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=krisnamughni24&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnamughni24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
 <div align="center" style="width: 150%">
   <h3 align="center">😊 Connect with me 😊</h3>
 </div>
@@ -37,7 +45,7 @@
 <a>
 </a>
 </div>
-
+  
 <div align="center" style="width: 150%">
   <h3 align="center">💰 You can help me by Donating 💰</h3>
 </div>
