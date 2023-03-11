@@ -3,12 +3,7 @@
 </div>
 
 
-
-
-
-<div align="center" style="width: 150%">
-  <img src="https://github.com/krisnamughni24/krisnamughni24/blob/main/makizenin1.gif" width="1000"/>
-</div>
+https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-8db1-d0a4ff4d7e16.mp4
 
 
 
