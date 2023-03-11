@@ -86,7 +86,7 @@
     <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50" /></a>
     <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" height="50" /></a>
     <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" height="50" /></a>
-    <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" height="50" /></a>
+    <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://developers.redhat.com/sites/default/files/Getting%20started%20-%20OS%20streams%20for%20kafka%20icon.png" height="50" /></a>
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="50" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" height="50" /></a>
     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" /></a>
