@@ -111,7 +111,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&username=krisnamughni24" height="400" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=15&theme=dark&hide_border=true&username=krisnamughni24" height="300" alt="languages graph"  />
 </div>
 
 
