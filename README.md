@@ -131,7 +131,7 @@ https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-
 <a href="https://github.com/krisnamughni24" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/krisnamughni24" target="_blank">
+  <a href="https://linkedin.com/in/krisna-mughni-947b5b1a4/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/krisna_mughni" target="_blank">
