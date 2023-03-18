@@ -30,14 +30,6 @@ https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-
 
 
 
-
-<br><br>
-
-
-
-
-
-
 <div align="center" style="width: 150%">
   <h2 align="center">🖥️ My Skill Set 🖥️</h2>
 </div>
