@@ -3,6 +3,10 @@
 </div>
 
 
+
+
+
+
 https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-8db1-d0a4ff4d7e16.mp4
 
 
@@ -23,6 +27,7 @@ https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-
 
 <div style='text-align: justify;'>
   <p>Hi there! I'm Krisna Mughni, dedicated and motivated Back End Engineer with a passion for developing innovative and efficient solutions to complex problems. My technical skills and experience in coding and data management have allowed me to contribute to several successful projects. Additionally, I am also interested in the intersection of technology and creativity and have a keen interest in audio/music production, Game Dev, 3D modeling, and the use of DL/AI in these areas. I am always open to new opportunities and would welcome the chance to connect with like-minded professionals in my network. Let's connect!</p>
+  
   <p>こんにちは。 私はKrisna Mughniです。 複雑な問題に対する革新的で効率的なソリューションを開発することに情熱を持ち、献身的で意欲的なバックエンドエンジニアです。 コーディングとデータ管理における私の技術力と経験により、いくつかのプロジェクトの成功に貢献することができました。また、技術と創造性の交差に興味があり、オーディオ/音楽制作、ゲーム開発、3Dモデリング、これらの分野でのDL/AI活用に強い関心を持っています。私は常に新しい機会にオープンであり、私のネットワークで同じ考えを持つプロフェッショナルとつながる機会を歓迎します。 ぜひお会いしましょう</p>
 </div>
 
@@ -49,7 +54,7 @@ https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-
     <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" height="50" /></a>
     <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="50" /></a>
     <a href="https://gruntjs.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/39242419c60a53e1f3cecdeecb2460acce47366f/687474703a2f2f6772756e746a732e636f6d2f696d672f6772756e742d6c6f676f2d6e6f2d776f72646d61726b2e737667" height="50" /></a>
-    <a href="hhttps://prettier.io/" target="_blank"><img style="margin: 10px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256745/file-type-light-prettier-icon-md.png" height="50" /></a>
+    <a href="https://prettier.io/" target="_blank"><img style="margin: 10px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256745/file-type-light-prettier-icon-md.png" height="50" /></a>
     <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/npm-3-1175132.png?f=avif&w=256" height="50" /></a>
     <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354588/yarn.svg" height="50" /></a>
     <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" /></a>
