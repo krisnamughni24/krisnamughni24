@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-
     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" /></a>
     <a href="https://www.mongodb.com/cloud/atlas/lp/try4" target="_blank"><img style="margin: 10px" src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" height="50" /></a>
     <a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.storagealchemist.com/wp-content/uploads/2021/08/Syno-ApacheHTTP-logo-DSM6.png" height="50" /></a>
-    <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/d64a0852473fdca0dd74c7d86167b0c58e53059253c27790dcd54abbc1ba2331/68747470733a2f2f63646e2e6f70656e6272696467652e636f6d2f6173736574732f696d616765732f6f70656e6272696467652d6e67696e782d736d616c6c2e706e67" height="50" /></a>
+    <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373924/nginx.svg" height="50" /></a>
   </div>
   
   </td></tr>
