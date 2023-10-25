@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/68163712/224491120-abef8d15-fea6-4f50-
     <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="50" /></a>
     <a href="https://www.puppet.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/234268?s=200&v=4" height="50" /></a>
     <a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" height="50" /></a>
-    <a href="https://www.travis-ci.com/" target="_blank"><img style="margin: 10px" src="https://www.travis-ci.com/wp-content/uploads/2022/09/Logo.png" height="50" /></a>
+    <a href="https://www.travis-ci.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354459/travis-ci.svg" height="50" /></a>
     <a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="https://sl.com/wp-content/uploads/2016/10/mzl.tfigcody.png" height="50" /></a>
     <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png" height="50" /></a>
     <a href="https://azure.microsoft.com/en-us" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="50" /></a>
